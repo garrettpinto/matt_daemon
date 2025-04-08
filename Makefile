@@ -5,4 +5,4 @@ RM 	= rm -f
 default: all
 
 all: main.c
-	$(CC) main.c -o Matt_daemon
+	$(CC) main.c -o matt_daemon
